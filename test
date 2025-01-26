@@ -1,0 +1,7 @@
+echo "# SOC_Lab_Exercises" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wsy0331/SOC_Lab_Exercises.git
+git push -u origin main
