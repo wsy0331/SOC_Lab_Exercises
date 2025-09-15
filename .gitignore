@@ -1,0 +1,42 @@
+# 編譯產生的執行檔 / Compiled executables
+inefficient_division
+efficient_division
+performance_comparison
+
+# 編譯產生的目標檔 / Compiled object files
+*.o
+*.obj
+
+# 其他建置產物 / Other build artifacts
+*.exe
+*.out
+*.app
+
+# 除錯資訊 / Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# 臨時檔案 / Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE 設定檔 / IDE configuration files
+.vscode/
+.idea/
+*.user
+*.suo
+*.ncb
+*.aps
+*.plg
+*.opt
+*.clw
+*.tags
+
+# 測試輸出 / Test output
+test_output/
+*.log
